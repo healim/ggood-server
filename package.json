@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "backend dev for project gg",
   "main": "index.js",
-  "author": "kwon",
+  "author": "healim",
   "license": "MIT",
   "scripts": {
     "start": "NODE_PATH=src node src",
